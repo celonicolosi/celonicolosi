@@ -17,7 +17,7 @@ I recently completed an intensive data science bootcamp where I acquired a stron
 - Programming Languages: Python, Ruby
 - Test Automation: Cucumber, Capybara, SitePrism
 - Version Control: Git
-- Data Science: Data Visualization, Machine Learning, Linear Regression, Natural language processing (NLP)
+- Data Science: Data Visualization, Machine Learning, Linear Regression, Natural language processing (NLP), NumPy, Pandas, Scikit-learn
 
 
 ## Projects
@@ -26,9 +26,9 @@ I recently completed an intensive data science bootcamp where I acquired a stron
 
 During my data science bootcamp, I worked on a variety of hands-on projects that allowed me to apply my knowledge and skills in real-world scenarios. I leveraged Python and popular data science libraries such as NumPy, Pandas, and Scikit-learn to perform data cleaning, exploratory data analysis, and predictive modelling.
 
-GitHub Repository: [MyPortfolio](https://github.com/celonicolosi/hyperion_bootcamp_data_science)
+[🔗 GitHub Repository](https://github.com/celonicolosi/hyperion_bootcamp_data_science)
 
-My HyperionDev Portfolio: [MyPortifolio](https://www.hyperiondev.com/portfolio/116969)
+[🔗 HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/116969)
 
 
 ## Open Source Contributions
