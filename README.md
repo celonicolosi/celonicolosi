@@ -9,7 +9,7 @@ I'm a Test Engineer with a focus on creating efficient and reliable test automat
 
 <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif" width="400px" style="margin:0px 0px 10px 10px"/>
 I recently completed an intensive data science bootcamp where I acquired a strong foundation in data analysis, machine learning, and data visualization. Through hands-on projects and real-world case studies, I gained practical experience in cleaning and manipulating data, implementing various machine learning algorithms, and creating insightful visualizations to extract valuable insights. I am skilled in Python and have worked with popular libraries such as NumPy, Pandas, and scikit-learn. With a solid understanding of statistical analysis and predictive modeling techniques, I am eager to apply my data science skills to solve complex problems and uncover meaningful patterns in large datasets. I'm excited to collaborate with cross-functional teams and contribute to data-driven decision-making processes.
-<br clear="left"/>
+<br clear="right"/>
 
 ## Skills
 
