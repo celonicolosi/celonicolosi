@@ -11,6 +11,7 @@ I'm a Test Engineer with a focus on creating efficient and reliable test automat
 I recently completed an intensive data science bootcamp where I acquired a strong foundation in data analysis, machine learning, and data visualization. Through hands-on projects and real-world case studies, I gained practical experience in cleaning and manipulating data, implementing various machine learning algorithms, and creating insightful visualizations to extract valuable insights. I am skilled in Python and have worked with popular libraries such as NumPy, Pandas, and scikit-learn. With a solid understanding of statistical analysis and predictive modeling techniques, I am eager to apply my data science skills to solve complex problems and uncover meaningful patterns in large datasets. I'm excited to collaborate with cross-functional teams and contribute to data-driven decision-making processes.
 <br clear="right"/>
 
+
 ## Skills
 
 - Programming Languages: Python, Ruby
@@ -45,4 +46,5 @@ Let's connect and create amazing things together!
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=celonicolosi&show_icons=true&theme=gotham" alt="celonicolosi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=celonicolosi&show_icons=true&include_all_commits=true&theme=nightowl" alt="celonicolosi's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celonicolosi&layout=compact&theme=nightowl" />
