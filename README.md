@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img align="right" alt="GIF" src="https://maliktester.files.wordpress.com/2021/10/hiring-manager-quantumhunts.gif" width="400px"/>
+<img align="right" alt="GIF" src="https://maliktester.files.wordpress.com/2021/10/hiring-manager-quantumhunts.gif" width="400px" border="10px solid transparent"/>
 
 I'm a Test Engineer with a focus on creating efficient and reliable test automation frameworks. With extensive experience in Ruby, Cucumber, and Capybara, I specialize in building robust automated test suites that ensure high-quality software products. I have a deep understanding of software testing principles and best practices, and I am dedicated to delivering reliable test automation solutions that accelerate the testing process and improve overall product quality. I enjoy collaborating with cross-functional teams to identify test scenarios, write feature files, implement step definitions, and execute tests, resulting in comprehensive test coverage and faster feedback loops. With a keen eye for detail and a strong commitment to continuous improvement, I strive to optimize test automation efforts and enhance the overall software development lifecycle.
 
