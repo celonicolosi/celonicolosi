@@ -43,8 +43,3 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 - LinkedIn: [Marcelo Nicolosi](https://www.linkedin.com/in/marcelonicolosi/)
 
 Let's connect and create amazing things together!
-
-📈 my github stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=celonicolosi&show_icons=true&include_all_commits=true&theme=nightowl" alt="celonicolosi's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celonicolosi&layout=compact&theme=nightowl" />
