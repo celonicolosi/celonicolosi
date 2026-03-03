@@ -1,26 +1,46 @@
-# Hello world, I'm Marcelo Nicolosi! 👋
+# Hello world, I'm Marcelo Nicolosi Santos! 👋
 
 ## About Me
 
 <img align="right" alt="GIF" src="https://maliktester.files.wordpress.com/2021/10/hiring-manager-quantumhunts.gif" width="400px" style="margin: 0px 0px 10px 10px"/>
 
-I'm a Test Engineer with a focus on creating efficient and reliable test automation frameworks. With extensive experience in Ruby, Cucumber, and Capybara, I specialize in building robust automated test suites that ensure high-quality software products. I have a deep understanding of software testing principles and best practices, and I am dedicated to delivering reliable test automation solutions that accelerate the testing process and improve overall product quality. I enjoy collaborating with cross-functional teams to identify test scenarios, write feature files, implement step definitions, and execute tests, resulting in comprehensive test coverage and faster feedback loops. With a keen eye for detail and a strong commitment to continuous improvement, I strive to optimize test automation efforts and enhance the overall software development lifecycle.
-<br clear="right"/>
+I’m a QA Automation Engineer focused on building reliable, maintainable, and scalable test architectures.
 
-<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif" width="400px" style="margin:0px 0px 10px 10px"/>
-I recently completed an intensive data science bootcamp where I acquired a strong foundation in data analysis, machine learning, and data visualization. Through hands-on projects and real-world case studies, I gained practical experience in cleaning and manipulating data, implementing various machine learning algorithms, and creating insightful visualizations to extract valuable insights. I am skilled in Python and have worked with popular libraries such as NumPy, Pandas, and scikit-learn. With a solid understanding of statistical analysis and predictive modeling techniques, I am eager to apply my data science skills to solve complex problems and uncover meaningful patterns in large datasets. I'm excited to collaborate with cross-functional teams and contribute to data-driven decision-making processes.
-<br clear="right"/>
+My work goes beyond writing automated tests. I design automation systems that are readable, debuggable, and resilient in CI environments. Recently, I’ve been leading architectural refactors, migrating layered SitePrism-based page objects toward simpler, more explicit Capybara patterns to reduce cognitive overhead and improve traceability.
+
+I’m particularly interested in test architecture, framework design, and the trade-offs between layered abstractions and integrated tooling. I enjoy questioning default patterns and evolving automation stacks toward clarity and long-term sustainability.
+
+My core stack includes Ruby, Capybara, Selenium, and GitHub Actions, and I’ve been expanding into Playwright and modern TypeScript-based automation approaches.
+
+Beyond automation, I care about quality as a product discipline — ensuring that tests validate meaningful user behaviour rather than just DOM structure.
 
 
 ## Skills
-
-- Programming Languages: Python, Ruby
-- Test Automation: Cucumber, Capybara, SitePrism
-- Version Control: Git
-- Data Science: Data Visualization, Machine Learning, Linear Regression, Natural language processing (NLP), NumPy, Pandas, Scikit-learn
+- Automation & Testing: Capybara, Selenium, Playwright, RSpec, Cucumber
+- Languages: Ruby, TypeScript, JavaScript
+- CI/CD: GitHub Actions
+- Architecture: Test framework design, abstraction strategy, refactoring legacy automation
+- Quality Focus: Flakiness reduction, behavioural validation, maintainability
 
 
 ## Projects
+
+### Playwright E2E Architecture with AI (AutomatizAi – 2026)
+
+Advanced specialisation focused on modern end-to-end test automation using Playwright and AI-assisted workflows.
+
+Key Areas:
+- Scalable project architecture using Feature Actions
+- Deterministic E2E strategies (network interception, mocking)
+- API setup + UI validation hybrid testing
+- Flaky test elimination strategies
+- CI/CD pipelines with GitHub Actions
+- Executive dashboards and TestOps practices
+- AI-assisted test generation and code review
+
+Focused on evolving from test script implementation to automation system design and operational quality engineering.
+
+[🔗 GitHub Repository](https://github.com/celonicolosi/velo))
 
 ### Hyperion Data Science Bootcamp
 
