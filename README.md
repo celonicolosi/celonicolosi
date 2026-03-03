@@ -40,7 +40,7 @@ Key Areas:
 
 Focused on evolving from test script implementation to automation system design and operational quality engineering.
 
-[🔗 GitHub Repository](https://github.com/celonicolosi/velo))
+[🔗 GitHub Repository](https://github.com/celonicolosi/velo)
 
 ### Hyperion Data Science Bootcamp
 
